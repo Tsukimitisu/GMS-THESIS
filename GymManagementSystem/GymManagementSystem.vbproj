@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9A7A1FC1-F462-42D5-9D47-90BDC5112E12}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>GymManagementSystem.My.MyApplication</StartupObject>
+    <RootNamespace>GymManagementSystem</RootNamespace>
+    <AssemblyName>GymManagementSystem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>GymManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>GymManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>AnytimeFitness_ico.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BCrypt.Net-Next">
+      <HintPath>..\..\..\..\..\Downloads\bcrypt.net-next.4.0.3\lib\net20\BCrypt.Net-Next.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\..\Downloads\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\..\Downloads\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.data, Version=9.3.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Downloads\mysql-connector-net-6.6.5-noinstall\tmp\v2\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accountmanage.Designer.vb">
+      <DependentUpon>Accountmanage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accountmanage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckInOut.Designer.vb">
+      <DependentUpon>CheckInOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CheckInOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.vb">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dashboardFrm.Designer.vb">
+      <DependentUpon>dashboardFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dashboardFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="downpaymentFrm.Designer.vb">
+      <DependentUpon>downpaymentFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="downpaymentFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="equipmentList.Designer.vb">
+      <DependentUpon>equipmentList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="equipmentList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GymEquipmentAdd.Designer.vb">
+      <DependentUpon>GymEquipmentAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GymEquipmentAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IdForm.Designer.vb">
+      <DependentUpon>IdForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IdForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading_Screen.Designer.vb">
+      <DependentUpon>Loading_Screen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Loading_Screen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="meberlist.Designer.vb">
+      <DependentUpon>meberlist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="meberlist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MembershipForm.Designer.vb">
+      <DependentUpon>MembershipForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MembershipForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberStatus.Designer.vb">
+      <DependentUpon>MemberStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MemberStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Connection.vb" />
+    <Compile Include="Modules\Utilities.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PaymentForm.Designer.vb">
+      <DependentUpon>PaymentForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentRecords.Designer.vb">
+      <DependentUpon>PaymentRecords.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentRecords.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterFrm.Designer.vb">
+      <DependentUpon>RegisterFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateMember.Designer.vb">
+      <DependentUpon>UpdateMember.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateMember.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAttendance.Designer.vb">
+      <DependentUpon>ViewAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Accountmanage.resx">
+      <DependentUpon>Accountmanage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckInOut.resx">
+      <DependentUpon>CheckInOut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dashboardFrm.resx">
+      <DependentUpon>dashboardFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="downpaymentFrm.resx">
+      <DependentUpon>downpaymentFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="equipmentList.resx">
+      <DependentUpon>equipmentList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GymEquipmentAdd.resx">
+      <DependentUpon>GymEquipmentAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdForm.resx">
+      <DependentUpon>IdForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading_Screen.resx">
+      <DependentUpon>Loading_Screen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="meberlist.resx">
+      <DependentUpon>meberlist.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MembershipForm.resx">
+      <DependentUpon>MembershipForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberStatus.resx">
+      <DependentUpon>MemberStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentForm.resx">
+      <DependentUpon>PaymentForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentRecords.resx">
+      <DependentUpon>PaymentRecords.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterFrm.resx">
+      <DependentUpon>RegisterFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateMember.resx">
+      <DependentUpon>UpdateMember.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAttendance.resx">
+      <DependentUpon>ViewAttendance.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AnytimeFitness_Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AnytimeFitness_Logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userblackfill.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlockblackfill.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hidden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AnytimeFitness_ico.ico" />
+    <None Include="Resources\Managemember.png" />
+    <None Include="Resources\acountmanage.png" />
+    <None Include="Resources\paymentrecord.png" />
+    <None Include="Resources\personstatus.png" />
+    <None Include="Resources\Equipmentlist1.png" />
+    <None Include="Resources\inandout.png" />
+    <None Include="Resources\checkin.png" />
+    <None Include="Resources\attendance.png" />
+    <None Include="Resources\Gymadd.png" />
+    <None Include="Resources\Equipmentlist.png" />
+    <None Include="Resources\gymEquipment.png" />
+    <None Include="Resources\memberlist.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\editing.png" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\GymViolet.png" />
+    <None Include="Resources\GymWhiteBG.png" />
+    <None Include="Resources\GymLogoWhite.png" />
+    <None Include="Resources\Addmember.png" />
+    <None Include="Resources\studentAdd.png" />
+    <None Include="Resources\Adding Product.png" />
+    <None Include="Resources\right-arrow.png" />
+    <None Include="Resources\AnytimeFitness Logo -White-wide.png" />
+    <None Include="Resources\Dashboard1.png" />
+    <None Include="Resources\AnytimeFitness Logo -White-.png" />
+    <None Include="Resources\gym.png" />
+    <None Include="Resources\123gym.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

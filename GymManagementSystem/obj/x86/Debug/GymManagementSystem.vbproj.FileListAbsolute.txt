@@ -1,0 +1,73 @@
+c:\users\james andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+c:\users\james andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+c:\users\james andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.xml
+c:\users\james andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\Guna.UI.dll
+c:\users\james andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Form1.resources
+c:\users\james andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Resources.resources
+c:\users\james andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.vbproj.GenerateResource.Cache
+c:\users\james andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe
+c:\users\james andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.xml
+c:\users\james andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.pdb
+c:\users\james andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\Guna.UI2.dll
+c:\users\james andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.RegisterFrm.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\mysql.data.dll
+C:\Users\James Andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\James Andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\James Andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.dashboardFrm.resources
+C:\Users\James Andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.MemberForm.resources
+C:\Users\James Andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\James Andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.downpaymentFrm.resources
+C:\Users\James Andrei\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Loading_Screen.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Accountmanage.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.CheckInOut.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.dashboardFrm.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.downpaymentFrm.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Form1.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Loading_Screen.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.memberlist.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.MembershipForm.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.MemberStatus.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Resources.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.PaymentRecords.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.RegisterFrm.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.ViewAttendance.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.UpdatMember.resources
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.xml
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\mysql.data.dll
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.xml
+C:\Users\James Andrei\Downloads\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.pdb
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.xml
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.pdb
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Accountmanage.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.CheckInOut.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Dashboard.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.dashboardFrm.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.downpaymentFrm.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.equipmentList.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Form1.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.GymEquipmentAdd.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Loading_Screen.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.memberlist.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.MembershipForm.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.MemberStatus.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Resources.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.PaymentRecords.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.RegisterFrm.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.UpdateMember.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.ViewAttendance.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.xml
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\bin\Debug\mysql.data.dll
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.IdForm.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.PaymentForm.resources
