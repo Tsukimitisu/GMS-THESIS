@@ -71,3 +71,7 @@ C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv
 C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\bin\Debug\BCrypt.Net-Next.xml
 C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.IdForm.resources
 C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.PaymentForm.resources
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.manifest
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.application
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe.manifest
+C:\Users\James Andrei\Documents\Visual Studio 2010\Projects\GymManagementSystemv1\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.application
